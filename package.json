@@ -1,0 +1,15 @@
+{
+  "name": "malik-school-fee-management",
+  "version": "1.0.0",
+  "description": "School Fee Payment Management System developed by PINJARI ABDUL MALIK",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "PINJARI ABDUL MALIK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
